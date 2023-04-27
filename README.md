@@ -8,8 +8,7 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 * [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/)
 * [Kurs Jira od podstaw - Udemy.com](https://udemy-certificate.s3.amazonaws.com/image/UC-f1dc0d86-3c56-4ded-91b1-b84266786c7c.jpg)
 * [Praktyczny kurs testowania oprogramowania - Udemy.com](https://udemy-certificate.s3.amazonaws.com/image/UC-3e289b8e-1bae-4b0c-9486-358166eb2dd2.jpg)
-* [Automatyzacja testów: Selenium WebDriver Java od podstaw
- - Udemy.com](https://udemy-certificate.s3.amazonaws.com/image/UC-054a8f1e-ce40-4316-971d-e1634b9d0136.jpg?v=1678721680000)
+* [Automatyzacja testów: Selenium WebDriver Java - Udemy.com](https://udemy-certificate.s3.amazonaws.com/image/UC-054a8f1e-ce40-4316-971d-e1634b9d0136.jpg)
 * [Podstawy Web Developmentu - Studiuje.IT](https://platforma.studiuje.it/certificate/63b20ce69e43c40026843465)
 * Front-end średnio zaawansowany (in progress) - Studiuje.IT
 
