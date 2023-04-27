@@ -15,13 +15,28 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 
 # Skills
 
+* ISTQB Certificate
 * Reporting bugs
 * Creating test cases
-* ISTQB Certificate
-* JIRA/Trello/Slack
-* HTML5/CSS/Visual Studio Code
+* HTML5/CSS
 * English B1
+
+# Tools
+
+* Postman
+* intelliJ IDEA
+* JIRA/Trello/Slack
 * Chrome DevTool
+* Visual Studio Code
+* GIT
+* ShareX
+* Screencast-O-Matic
+* VirtualBox
+
+# My bug reports
+
+* [Stradivatius Web](https://drive.google.com/file/d/1-lbiBGAuHUhQ1ckmm1olJtQPPVCUZdYj/view?usp=sharing)
+* [Stradivarius Mobile](https://drive.google.com/file/d/1cvxH87Mnt9HwESMIw0JAv-bjnegXIkM9/view?usp=sharing)
 
 
 
