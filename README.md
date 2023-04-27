@@ -38,5 +38,10 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 * [Stradivatius Web](https://drive.google.com/file/d/1-lbiBGAuHUhQ1ckmm1olJtQPPVCUZdYj/view?usp=sharing)
 * [Stradivarius Mobile](https://drive.google.com/file/d/1cvxH87Mnt9HwESMIw0JAv-bjnegXIkM9/view?usp=sharing)
 
+# Projects
 
+* [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello)
+* [Cherry-IT: COLT 1/2023](*)
+* [Trello API (in progress)](https://github.com/mruszczyk29/TrelloApi)
+* [Selenium IDE - Swag Labs Testing (in progress)](https://github.com/mruszczyk29/saucedemo)
 
