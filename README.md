@@ -19,7 +19,7 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 * Reporting bugs
 * Creating test cases
 * HTML5/CSS
-* English B1
+* English A2
 
 # Tools
 
