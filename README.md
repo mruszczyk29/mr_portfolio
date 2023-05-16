@@ -44,4 +44,5 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 * [Cherry-IT: COLT 1/2023](*)
 * [Trello API (in progress)](https://github.com/mruszczyk29/TrelloApi)
 * [Selenium IDE - Swag Labs Testing (in progress)](https://github.com/mruszczyk29/saucedemo)
+* [Guru99 Bank - Test (in progress)](https://github.com/mruszczyk29/Guru99Bank-Test)
 
