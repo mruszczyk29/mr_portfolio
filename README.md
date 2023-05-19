@@ -43,6 +43,6 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 * [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello)
 * [Cherry-IT: COLT 1/2023](http://cherry-it.pl/podsumowanie-colt-1-2023/)
 * [Postman - API TRELLO](https://github.com/mruszczyk29/Postaman_Api_Trello)
-* [Selenium IDE - Swag Labs Testing (in progress)](https://github.com/mruszczyk29/saucedemo)
+* [Selenium IDE - Swag Labs Testing (in progress)](https://github.com/mruszczyk29/Selenium_Java_saucedemo)
 * [Guru99 Bank - Test (in progress)](https://github.com/mruszczyk29/Guru99Bank-Test)
 
