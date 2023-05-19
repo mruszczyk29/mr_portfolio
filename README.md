@@ -32,6 +32,7 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 * ShareX
 * Screencast-O-Matic
 * VirtualBox
+* Bug Magnet
 
 # My bug reports
 
