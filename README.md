@@ -1,6 +1,6 @@
 # About Me 
 
-Hi, my name is [Michał](https://curious-capybara-39c584.netlify.app/) and I am currently learning software testing. I am passionate about technology and ensuring that applications work according to their documentation. In my free time, I like to explore new software tools and techniques to improve my testing skills. I believe that with hard work and dedication I can have a positive impact on software development.
+Hi, my name is [Michał](https://michalruszczykcv.netlify.app) and I am currently learning software testing. I am passionate about technology and ensuring that applications work according to their documentation. In my free time, I like to explore new software tools and techniques to improve my testing skills. I believe that with hard work and dedication I can have a positive impact on software development.
 
 # Education
 
