@@ -40,10 +40,9 @@ Hi, my name is Michał and I am currently learning software testing. I am passio
 
 # Projects
 
+* [CV - Michał Ruszczyk](https://curious-capybara-39c584.netlify.app/)
 * [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello)
 * [Cherry-IT: COLT 1/2023](http://cherry-it.pl/podsumowanie-colt-1-2023/)
 * [Postman - API TRELLO](https://github.com/mruszczyk29/Postaman_Api_Trello)
 * [Selenium IDE - Swag Labs Testing (in progress)](https://github.com/mruszczyk29/Selenium_Java_saucedemo)
 * [Guru99 Bank - Test (in progress)](https://github.com/mruszczyk29/Guru99Bank-Test)
-* [![Netlify Status](https://api.netlify.com/api/v1/badges/9f681e68-c7fc-4e95-bb68-bd08a30b31f8/deploy-status)](https://app.netlify.com/sites/curious-capybara-39c584/deploys)
-
