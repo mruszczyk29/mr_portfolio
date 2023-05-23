@@ -1,6 +1,6 @@
 # About Me 
 
-Hi, my name is Michał and I am currently learning software testing. I am passionate about technology and making sure that applications work properly and efficiently. In my spare time, I like to explore new software tools and techniques to improve my testing skills. I believe that with hard work and dedication I can have a positive impact on software development.
+Hi, my name is [Micha](https://curious-capybara-39c584.netlify.app/) and I am currently learning software testing. I am passionate about technology and making sure that applications work properly and efficiently. In my spare time, I like to explore new software tools and techniques to improve my testing skills. I believe that with hard work and dedication I can have a positive impact on software development.
 
 # Education
 
