@@ -40,7 +40,7 @@ Hi, my name is [Michał](https://michalruszczykcv.netlify.app) and I am currentl
 
 # Projects
 
-* [CV - Michał Ruszczyk](https://curious-capybara-39c584.netlify.app/)
+* [CV - Michał Ruszczyk](https://michalruszczykcv.netlify.app)
 * [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello)
 * [Cherry-IT: COLT 1/2023](http://cherry-it.pl/podsumowanie-colt-1-2023/)
 * [Postman - API TRELLO](https://github.com/mruszczyk29/Postaman_Api_Trello)
